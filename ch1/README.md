@@ -1,1 +1,2 @@
-Code for Chapter 1
+# Code for Chapter 1
+Time Series Analysis with Spark, published by Packt
