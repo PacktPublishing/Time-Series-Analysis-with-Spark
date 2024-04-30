@@ -1,0 +1,8 @@
+FROM jupyter/pyspark-notebook:spark-3.5.0
+
+USER root
+COPY requirements_jupyter.txt .
+RUN pip install --no-cache-dir -r requirements_jupyter.txt && rm requirements_jupyter.txt
+
+#RUN export PACKAGES="io.delta:delta-core_2.12:3.1.0"
+#RUN export PYSPARK_SUBMIT_ARGS="--packages ${PACKAGES} pyspark-shell"
