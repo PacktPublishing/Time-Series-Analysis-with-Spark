@@ -2,6 +2,6 @@ pyspark==3.5.0
 delta-spark
 mlflow
 prophet
-ydata_profiling
+#ydata_profiling
 jupyter
 apache-airflow-providers-papermill
