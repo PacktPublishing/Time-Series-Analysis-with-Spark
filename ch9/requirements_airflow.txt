@@ -1,0 +1,7 @@
+pyspark
+delta-spark
+mlflow
+prophet
+#ydata_profiling
+jupyter
+apache-airflow-providers-papermill

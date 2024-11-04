@@ -1,0 +1,8 @@
+FROM bitnami/spark:latest
+
+USER root
+COPY requirements_spark.txt .
+RUN pip install --no-cache-dir -r requirements_spark.txt && rm requirements_spark.txt
+
+#RUN export PACKAGES="io.delta:delta-core_2.12:3.1.0"
+#RUN export PYSPARK_SUBMIT_ARGS="--packages ${PACKAGES} pyspark-shell"
