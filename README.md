@@ -52,7 +52,6 @@ By the end of this book, you’ll have mastered the skills to design and deploy 
 
 <details open> 
   <summary><h2>Chapters</summary>
-     <img src="https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif" alt="" height="556px" align="right">
 <ol>
 
   <li>What Are Time Series</li>
