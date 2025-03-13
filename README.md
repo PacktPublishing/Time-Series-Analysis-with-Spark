@@ -54,15 +54,15 @@ By the end of this book, you’ll have mastered the skills to design and deploy 
   <summary><h2>Chapters</summary>
 <ol>
 
-  <li>What Are Time Series</li>
+  <li>What Are Time Series?</li>
 
-  <li>Why Time Series Analysis Matters</li>
+  <li>Why Time Series Analysis?</li>
 
-  <li>What is Apache Spark and Why Is It Used? </li>
+  <li>Introduction to Apache Spark</li>
 
   <li>End-to-End View of a Time Series Analysis Project</li>
 
-  <li> Data Preparation</li>
+  <li>Data Preparation</li>
 
   <li>Exploratory Data Analysis</li>
 
