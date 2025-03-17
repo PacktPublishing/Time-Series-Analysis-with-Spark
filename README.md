@@ -1,6 +1,6 @@
 <h1 align="center">
 Time Series Analysis with Spark, First Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/time-series-analysis-with-spark-first-edition/9781803232256"> Time Series Analysis with Spark, First Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/time-series-analysis-with-spark-9781803247175"> Time Series Analysis with Spark</a>, published by Packt.
 </p>
 
 <h2 align="center">
