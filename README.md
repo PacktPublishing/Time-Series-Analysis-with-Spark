@@ -93,9 +93,9 @@ _Yoni Ramaswami_ Yoni Ramaswami is a Senior Solutions Architect at Databricks wi
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/modern-time-series-forecasting-with-python-second-edition/9781835883181">Modern Time Series Forecasting with Python, Second Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/modern-time-series-forecasting-with-python-9781835883198">Modern Time Series Forecasting with Python, Second Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/time-series-analysis-with-python-cookbook-first-edition/9781801075541">Time Series Analysis with Python Cookbook, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/time-series-analysis-with-python-cookbook-9781801071260">Time Series Analysis with Python Cookbook, First Edition</a></li>
  
 </ul>
 
