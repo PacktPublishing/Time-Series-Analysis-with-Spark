@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 <h1 align="center">
 Time Series Analysis with Spark, First Edition</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/time-series-analysis-with-spark-9781803247175"> Time Series Analysis with Spark</a>, published by Packt.
